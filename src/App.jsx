@@ -8,6 +8,12 @@ function App() {
         <h1>Hello world</h1>
         <Testing />
         <h3>Welcome tho testing world</h3>
+        <ul>
+          <li>abid</li>
+          <li>navid</li>
+          <li>mehrab</li>
+          <li>sahid</li>
+        </ul>
       </div>
     </>
   );
